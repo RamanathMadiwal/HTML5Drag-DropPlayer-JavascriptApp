@@ -2,6 +2,8 @@
 
 This application  can be viewed live in www.ramanathmadiwal.com. Go to my works section and click on Cloned websites section.
 
+![alt tag](https://cloud.githubusercontent.com/assets/25265882/25014952/74a6f8fa-2097-11e7-9ba1-ba64b33d37c8.png "Screenshot")
+
 ______________________________________________________________________________________________________________________
 This web app uses below javascript libararies to operate .
 <script src="../js/jquery-1.11.2.min.js"></script>
@@ -16,5 +18,4 @@ This web app uses below javascript libararies to operate .
  
  ********************************************************************************************************************
  
- Thanks
- Ramanath Madiwal
+
